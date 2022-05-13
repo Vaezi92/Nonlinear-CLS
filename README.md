@@ -1,6 +1,6 @@
 # Nonlinear CLS
 
-Although traditional linear k-e
+Although the common linear <img src="https://render.githubusercontent.com/render/math?math=k-\epsilon"> model is utilized widely in commercial and non-commercial codes but still have some weakness in the prediction of the anisotropy of turbulence. In another hand, The cost of computation for higher-order models has made them unuseful for complex and industrial problems. Cost and benefits showed that non-linear models such as (Craft et. al)[] are an appropriate choice. Here an in-house code is written for linear and non-linear CLS <img src="https://render.githubusercontent.com/render/math?math=k-\epsilon"> models to solve channel flow in Re=5600 and 14000. The results below show the performance of the written code.
 
 | Linear model | Nonlinear model |
 | --- | --- |
